@@ -185,6 +185,20 @@ namespace Assginment2
             //    index++;
             //}
             #endregion
+
+            #region Question 14
+            // Write a do-while loop that prints "Checking book..." exactly 3 times.
+
+            //int counter = 1;
+
+            //do
+            //{
+            //    Console.WriteLine("Checking book...");
+            //    counter++;
+            //}
+            //while (counter <= 3);
+            #endregion
+
         }
     }
 }
