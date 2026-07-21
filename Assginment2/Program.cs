@@ -80,7 +80,16 @@ namespace Assginment2
             //Console.WriteLine(sentence2);
             #endregion
 
+            #region Question 7
+            // Build the same sentence again,
+            // but using string.Format().
 
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string sentence3 = string.Format("Book: {0}, Pages: {1}", title, pages);
+
+            //Console.WriteLine(sentence3);
+            #endregion
         }
     }
 }
