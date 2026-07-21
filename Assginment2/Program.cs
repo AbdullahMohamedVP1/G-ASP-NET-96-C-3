@@ -1,4 +1,6 @@
-﻿namespace Assginment2
+﻿using System.Text;
+
+namespace Assginment2
 {
     internal class Program
     {
@@ -24,6 +26,19 @@
             //string book1 = "clean code";
             //string book2 = "clean code";
             //Console.WriteLine(object.ReferenceEquals(book1 , book2));
+
+            #endregion
+
+            #region Question3
+            //Create a StringBuilder, Append() the text "Book List",
+            //then Append() " - Updated" onto the same object.
+            //Print the final result. 
+
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book list");
+            //sb.Append(" - Updated");
+
+            //Console.WriteLine(sb);
 
             #endregion
         }
